@@ -1,0 +1,12 @@
+names:
+- Eyes
+nc: 1
+roboflow:
+  license: Public Domain
+  project: object-detection-chiq6
+  url: https://universe.roboflow.com/objectdetection-i2zcf/object-detection-chiq6/dataset/1
+  version: 1
+  workspace: objectdetection-i2zcf
+test: ../test/images
+train: Object-Detection-1/train/images
+val: Object-Detection-1/valid/images
